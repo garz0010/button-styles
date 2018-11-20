@@ -37,6 +37,7 @@ a {
   font-size: 1.125rem;
   background-color: #fff;
   color: #000;
+  border-color: #000;
   border-radius: 8px;
   border-width: 3px;
 }
