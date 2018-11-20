@@ -18,19 +18,19 @@ a {
 }
 
 .btn {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .btn-subtle {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .btn-ghost {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .btn-warning {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 .btn-small {
@@ -38,5 +38,5 @@ a {
 }
 
 .btn-big {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 }
