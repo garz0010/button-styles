@@ -12,6 +12,10 @@ div {
   text-align: center;
 }
 
+.btn :hover {
+  background: #000;
+}
+
 a {
   padding: .4em .75em .3em;
   text-decoration: none;
