@@ -12,11 +12,31 @@ div {
   text-align: center;
 }
 
-.btn :hover {
-  background: #000;
-}
-
 a {
   padding: .4em .75em .3em;
   text-decoration: none;
+}
+
+.btn {
+  font-size: 1.5rem;
+}
+
+.btn-subtle {
+  font-size: 1.5rem;
+}
+
+.btn-ghost {
+  font-size: 1.5rem;
+}
+
+.btn-warning {
+  font-size: 1.5rem;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
+.btn-big {
+  font-size: 1.125rem;
 }
