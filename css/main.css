@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  background-color: #ccc;
 }
 
 *, *::before, *::after {
@@ -19,18 +20,22 @@ a {
 
 .btn {
   font-size: 1.125rem;
+  background-color: #333;
 }
 
 .btn-subtle {
   font-size: 1.125rem;
+  background-color: #666;
 }
 
 .btn-ghost {
   font-size: 1.125rem;
+  background-color: #fff;
 }
 
 .btn-warning {
   font-size: 1.125rem;
+  background-color: #f33;
 }
 
 .btn-small {
