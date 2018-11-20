@@ -32,6 +32,7 @@ a {
 .btn-ghost {
   font-size: 1.125rem;
   background-color: #fff;
+  color: #000;
 }
 
 .btn-warning {
