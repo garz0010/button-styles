@@ -38,8 +38,7 @@ div {
 .btn-ghost {
   background-color: #fff;
   color: #666;
-  border: 3px solid #333;
-}
+ }
 
 .btn-ghost:hover {
   color: #fff;
